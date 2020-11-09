@@ -1,0 +1,1 @@
+document.write("<hr>script within external file<hr>");
